@@ -1,0 +1,10 @@
+(defun xploder()
+	(setq 	ct 0
+		xpl (ssget "X" '((0 . "INSERT"))) )
+	(if (/= nil xpl)  
+       		(repeat (sslength xpl)
+    		(command "explode" (ssname xpl ct))
+  		(setq ct (+ 1 ct))
+	      		)
+	  )
+  )
