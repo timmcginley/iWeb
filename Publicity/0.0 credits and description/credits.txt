@@ -1,0 +1,17 @@
+credits
+
+project name: iWeb
+
+design: ONL [Oosterhuis_Lénárd]
+
+lead designers: Kas Oosterhuis, Ilona Lénárd
+
+design team: Kas Oosterhuis, Sander Boer, Ilona Lénárd, Yael Brosilovski, Rui Dias, Michi Tomaselli, Petra Frimmel
+
+site: Floriade 2002 Haarlemmermeer
+
+date: 2002
+
+client: Province of North Holland
+
+status: demolished
