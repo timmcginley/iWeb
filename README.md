@@ -1,3 +1,3 @@
 iWeb
 ====
-This building was essentially the first Open Source Building, at least on Github. This branch will take the orginal files, convert them to blender and then get them into Unity, Protospace 2.0 lives on in the metaverse...
+This building was essentially the first Open Source Building, at least on Github. This branch conserves the original fies just in case.
